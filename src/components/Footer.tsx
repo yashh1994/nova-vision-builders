@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="space-y-4">
             <h3 className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              DevCraft
+              100XTechs
             </h3>
             <p className="text-sm text-muted-foreground">
               Building next-generation digital solutions for businesses worldwide.
@@ -63,7 +63,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-primary/10 text-center text-sm text-muted-foreground">
-          <p>&copy; {currentYear} DevCraft. All rights reserved. Built with passion for innovation.</p>
+          <p>&copy; {currentYear} 100XTechs. All rights reserved. Built with passion for innovation.</p>
         </div>
       </div>
     </footer>
